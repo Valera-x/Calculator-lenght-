@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    background-color: #cd6262;
+}
+.container{
+    text-align: center;
+    margin-top: 60px;
+}
+#write{
+    width: 600px;
+    height: 40px;
+}
+#calc{
+    background-color: #5eca5e;
+    width: 130px;
+    margin-left: 615px;
+    margin-top: 50px;
+}
+#words{
+    width: 260px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    margin-top: 100px;
+    margin-left: 547px;
+}
